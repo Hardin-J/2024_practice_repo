@@ -1,4 +1,4 @@
-import java.util.Scanner;
+iimport java.util.Scanner;
 
 public class Sample{
     public static void main(String []arg){
@@ -6,12 +6,14 @@ public class Sample{
     System.out.println("Hello World");  
     System.out.println("Welcome you all");
     System.out.println("edited in branch 2");
+
     //changes to be added
     //changes are get input from user
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter a Number : ");
     int a = sc.nextInt();
     System.out.println(a);
+    System.out.println("this is vidhusha");
     sc.close();
   }
 }
