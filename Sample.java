@@ -3,5 +3,6 @@ public class Sample{
     //it is a sample code
     System.out.println("Hello World");  
     System.out.println("Welcome you all");
+    System.out.println("edited in branch 2");
   }
 }
